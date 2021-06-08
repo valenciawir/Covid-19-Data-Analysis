@@ -9,3 +9,4 @@
 ## Data source: 
 ### Indonesia
 https://www.worldometers.info/coronavirus/country/indonesia/
+25 days after the first covid 19 case (02 March 2020)
